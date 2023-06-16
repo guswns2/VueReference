@@ -1,4 +1,4 @@
-# study
+# Vue Study
 
 ## Project setup
 ```
