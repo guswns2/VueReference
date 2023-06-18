@@ -1,25 +1,27 @@
-# Vue Study
+# Vue 2 레퍼런스 공부 및 정리
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🖥 프로젝트 소개
+- 주제 : Vue 2 Refernce 구현
+- 팀명 : 개인
+- 인원 : 1명
+- 개발 기간 : 2023.06 ~ 2023.06 (약 1주)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## ⚙ 개발 환경
+- Web : Javascript, Vue 
+- Server : Node.js (v12.22.1)
+- Code Editor : VisualStudio Code
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# VueStudy
+
+## 🔍 주요 기능
+- Sidebar
+  - vue-router와 element-ui sidebar를 활용한 라우팅 기능
+
+
+## 🔁 프로젝트 설치 및 실행
+- node_module 설치
+  - npm install
+
+- 프로젝트 실행
+  - npm run serve
