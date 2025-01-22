@@ -1,5 +1,5 @@
 ## 🖥 프로젝트 소개
-- 주제 : Vue 2 Refernce Web
+- 주제 : Vue 2 Reference Web
 - 팀명 : 개인
 - 인원 : 1명
 - 개발 기간 : 2023.06 ~ 2023.06 (약 1주)
@@ -7,7 +7,7 @@
 
 ## ⚙ 개발 환경
 - Web : Javascript, Vue (v2.6.14)
-- Server : Node.js (v12.22.1)
+- Server : Node.js (v12.22.11)
 - Code Editor : VisualStudio Code
 
 
