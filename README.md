@@ -17,8 +17,4 @@
 
 
 ## 🔁 프로젝트 설치 및 실행
-- node_module 설치
-  - npm install
-
-- 프로젝트 실행
-  - npm run serve
+https://www.notion.so/VueReference-183ffb5eb35680fc8785d7bee03e81be?pvs=4
